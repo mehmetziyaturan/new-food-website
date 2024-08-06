@@ -1,6 +1,6 @@
 # new-food-website
 
-[udeming.com]([https://udemig.com])) Css Proje Çalışması.
+[udeming.com](https://udemig.com]) Css Proje Çalışması.
 
 ![1](https://github.com/user-attachments/assets/32bc70a4-5527-492d-bd97-59eee38ff9ba)
 
