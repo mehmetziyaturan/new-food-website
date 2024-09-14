@@ -10,7 +10,7 @@
 
 
 ## Installation
-Öncelikle projeyi clonelayın.
+Öncelikle projeyi clonelayın. 
 ```bash
 git clone https://github.com/mehmetziyaturan/new-food-website.git
 ```
